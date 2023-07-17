@@ -1,9 +1,9 @@
-package com.github.ducduyn31.leetcode.medium.nqueens2;
+package com.github.ducduyn31.leetcode.hard.nqueens2;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SolutionTest {
 

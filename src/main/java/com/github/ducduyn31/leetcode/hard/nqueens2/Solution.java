@@ -1,4 +1,4 @@
-package com.github.ducduyn31.leetcode.medium.nqueens2;
+package com.github.ducduyn31.leetcode.hard.nqueens2;
 
 import java.util.*;
 
